@@ -1,4 +1,9 @@
 {
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "strict": true
+  },
   "files": [],
   "references": [
     {
